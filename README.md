@@ -2,7 +2,7 @@
 
 In progress
 
-THis repo will contain the code for our paper Are Stereotypes leading LLMs' Zero-Shot Stance Detection.
+This repo will contain the code for our paper <em/>Are Stereotypes leading LLMs' Zero-Shot Stance Detection.<em>
 
 @inproceedings{dubreuil2025stereotypes,
   title     = {Are Stereotypes Leading LLMs’ Zero-Shot Stance Detection?},
